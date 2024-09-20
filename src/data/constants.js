@@ -10,9 +10,7 @@ export const Bio = {
   ],
   description:
     "My name is Ez-zouek Hamza, but you can call me Zawak. I'm from Morocco and a passionate full-stack developer with a preference for front-end development. I am always eager to take on new challenges and dedicated to delivering high-quality results.",
-  github: "https://github.com/HAMZAZAWAK17",
-  resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+  github: "https://github.com/HAMZAZAWAK17",  
   linkedin: "https://www.linkedin.com/in/hamza-ezzouek-a99aa327a/",
   twitter: "https://x.com/HEzzouek",
   insta: "https://www.instagram.com/zawa9.1.7/",
